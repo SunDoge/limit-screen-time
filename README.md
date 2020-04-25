@@ -1,2 +1,2 @@
-# limit-screen-time
+# Limit Screen Time
 Limit screen time
